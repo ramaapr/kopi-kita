@@ -332,7 +332,10 @@ h6 {
   font-weight: 400;
   color: #666;
 }
-
+a:focus,
+a:active {
+    outline: none;
+}
 
 /* =========================
    TESTIMONI
