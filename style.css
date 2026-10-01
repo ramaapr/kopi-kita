@@ -13,7 +13,7 @@ html {
 body {
   margin: 0;
   font-family: "Inter", sans-serif;
-  background-image: url("../foto/biji.jpg");
+  background-image: url("biji.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
